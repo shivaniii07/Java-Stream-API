@@ -1,4 +1,4 @@
-package work;
+package com.packages.streamobjects;
 
 import java.util.ArrayList;
 import java.util.Arrays;

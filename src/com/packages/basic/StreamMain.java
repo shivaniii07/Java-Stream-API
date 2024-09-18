@@ -1,9 +1,8 @@
-package work;
+package com.packages.basic;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class StreamMain {
     public static void main(String[] args) {
